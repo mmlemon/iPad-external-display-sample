@@ -1,0 +1,291 @@
+TVideoSample1
+v7
+r0
+t305399546.805629
+cCheck dependencies
+cProcessInfoPlistFile /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/Info.plist VideoSample1-Info.plist
+cCompileXIB /Users/mmlemon/Documents/apple/iPad/VideoSample1/MainWindow.xib
+cCompileXIB /Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1ViewController.xib
+cCpResource build/Debug-iphonesimulator/VideoSample1.app/bon_TYPE6a.mov bon_TYPE6a.mov
+cProcessPCH /var/folders/yt/ytrYuW-kFeu0bUmJA2vW-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoSample1_Prefix-ebaxccxmqttwcsbatvdvfjafkaup/VideoSample1_Prefix.pch.gch VideoSample1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/main.o /Users/mmlemon/Documents/apple/iPad/VideoSample1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1AppDelegate.o /Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1ViewController.o /Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1 normal i386
+cGenerateDSYMFile /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app.dSYM /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1
+cTouch /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk
+c000000004C6983AB0000000000000110
+t1281983403
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BD1CD90000000000026F020
+t1272040848
+s2551840
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BD1FFC200000000002A96A0
+t1272053698
+s2791072
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BD1FF9E0000000000001355
+t1272053662
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/Headers/MediaPlayer.h
+c000000004BD2093D0000000000000268
+t1272056125
+s616
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/MediaPlayer.framework/MediaPlayer
+c000000004BD2095E00000000001515F0
+t1272056158
+s1381872
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004BD1D06900000000001294B0
+t1272041577
+s1217712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004BD20412000000000000098F
+t1272054802
+s2447
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004BD20471000000000222E640
+t1272054897
+s35841600
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1AppDelegate.h
+c000000004C83CBB100000000000001F9
+t1283705777
+s505
+i<UIKit/UIKit.h>
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1AppDelegate.m
+c000000004C83CBB100000000000007BF
+t1283705777
+s1983
+i"VideoSample1AppDelegate.h"
+i"VideoSample1ViewController.h"
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1ViewController.h
+c000000004C83CC47000000000000017F
+t1283705927
+s383
+i<UIKit/UIKit.h>
+i<MediaPlayer/MediaPlayer.h>
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1ViewController.m
+c000000004C83CDC400000000000006DE
+t1283706308
+s1758
+i"VideoSample1ViewController.h"
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/MainWindow.xib
+c000000004C83CBB10000000000004D3B
+t1283705777
+s19771
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1ViewController.xib
+c000000004C83CBB10000000000003EF5
+t1283705777
+s16117
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1_Prefix.pch
+c000000004C83CBB100000000000000C1
+t1283705777
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/bon_TYPE6a.mov
+c000000004BF414EC0000000000083D8E
+t1274287340
+s540046
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app
+t1283706746
+s272
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app.dSYM
+t1283706746
+s102
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/Info.plist
+t1283706742
+s818
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/MainWindow.nib
+t1283706744
+s1133
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/PkgInfo
+t1283706742
+s8
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1
+t1283706746
+s18452
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1ViewController.nib
+t1283706744
+s764
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/bon_TYPE6a.mov
+t1283706744
+s540046
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1.LinkFileList
+c000000004C83CF7600000000000001D3
+t1283706742
+s467
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1AppDelegate.o
+t1283706746
+s45644
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1ViewController.o
+t1283706746
+s39560
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/main.o
+t1283706746
+s6324
+
+N/Users/mmlemon/Documents/apple/iPad/VideoSample1/main.m
+c000000004C83CBB1000000000000016A
+t1283705777
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/yt/ytrYuW-kFeu0bUmJA2vW-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoSample1_Prefix-ebaxccxmqttwcsbatvdvfjafkaup/VideoSample1_Prefix.pch.gch
+t1283706746
+s13825936
+
+NVideoSample1-Info.plist
+c000000004C83CBB100000000000004D6
+t1283705777
+s1238
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305399542#305399542#0(0"0(0#1#0"8649612768#0"0#
+
+CCompileC build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1AppDelegate.o /Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305399546.500780
+e305399546.636675
+r1
+xCompileC
+xbuild/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1AppDelegate.o
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@90"Compile /Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1AppDelegate.m305399546#305399546#0(0"0(0#0#82"/Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1AppDelegate.m8649763040#2157"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-generated-files.hmap -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-own-target-headers.hmap -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-all-target-headers.hmap -iquote /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-project-headers.hmap -F/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/include -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/DerivedSources/i386 -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/DerivedSources -include /var/folders/yt/ytrYuW-kFeu0bUmJA2vW-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoSample1_Prefix-ebaxccxmqttwcsbatvdvfjafkaup/VideoSample1_Prefix.pch -c /Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1AppDelegate.m -o /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1AppDelegate.o0#
+
+CCompileC build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1ViewController.o /Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305399546.573171
+e305399546.691381
+r1
+xCompileC
+xbuild/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1ViewController.o
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@93"Compile /Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1ViewController.m305399546#305399546#0(0"0(0#0#85"/Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1ViewController.m8647588256#2163"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-generated-files.hmap -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-own-target-headers.hmap -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-all-target-headers.hmap -iquote /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-project-headers.hmap -F/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/include -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/DerivedSources/i386 -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/DerivedSources -include /var/folders/yt/ytrYuW-kFeu0bUmJA2vW-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoSample1_Prefix-ebaxccxmqttwcsbatvdvfjafkaup/VideoSample1_Prefix.pch -c /Users/mmlemon/Documents/apple/iPad/VideoSample1/Classes/VideoSample1ViewController.m -o /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1ViewController.o0#
+
+CCompileC build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/main.o /Users/mmlemon/Documents/apple/iPad/VideoSample1/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305399546.499690
+e305399546.573064
+r1
+xCompileC
+xbuild/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/main.o
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/mmlemon/Documents/apple/iPad/VideoSample1/main.m305399546#305399546#0(0"0(0#0#55"/Users/mmlemon/Documents/apple/iPad/VideoSample1/main.m8650285824#2111"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-generated-files.hmap -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-own-target-headers.hmap -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-all-target-headers.hmap -iquote /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-project-headers.hmap -F/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/include -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/DerivedSources/i386 -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/DerivedSources -include /var/folders/yt/ytrYuW-kFeu0bUmJA2vW-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoSample1_Prefix-ebaxccxmqttwcsbatvdvfjafkaup/VideoSample1_Prefix.pch -c /Users/mmlemon/Documents/apple/iPad/VideoSample1/main.m -o /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/mmlemon/Documents/apple/iPad/VideoSample1/MainWindow.xib
+s305399542.486437
+e305399544.255341
+r1
+xCompileXIB
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib305399542#305399544#0(0"0(0#0#63"/Users/mmlemon/Documents/apple/iPad/VideoSample1/MainWindow.xib8649083616#605"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/MainWindow.nib /Users/mmlemon/Documents/apple/iPad/VideoSample1/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCompileXIB /Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1ViewController.xib
+s305399542.488591
+e305399544.276939
+r1
+xCompileXIB
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1ViewController.xib
+lSLF07#2@41"CompileXIB VideoSample1ViewController.xib305399542#305399544#0(0"0(0#0#79"/Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1ViewController.xib8648727680#637"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1ViewController.nib /Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/VideoSample1.app/bon_TYPE6a.mov bon_TYPE6a.mov
+s305399544.256868
+e305399544.344837
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/VideoSample1.app/bon_TYPE6a.mov
+xbon_TYPE6a.mov
+lSLF07#2@19"Copy bon_TYPE6a.mov305399544#305399544#0(0"0(0#0#63"/Users/mmlemon/Documents/apple/iPad/VideoSample1/bon_TYPE6a.mov8658770912#493"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/mmlemon/Documents/apple/iPad/VideoSample1/bon_TYPE6a.mov /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app0#
+
+CGenerateDSYMFile /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app.dSYM /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1
+s305399546.739581
+e305399546.792855
+r1
+xGenerateDSYMFile
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app.dSYM
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/VideoSample1.app.dSYM build/Debug-iphonesimulator/VideoSample1.app/VideoSample1305399546#305399546#0(0"0(0#0#106"/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample18642881024#428"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1 -o /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app.dSYM0#
+
+CLd /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1 normal i386
+s305399546.691474
+e305399546.739484
+r1
+xLd
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1
+xnormal
+xi386
+lSLF07#2@111"Link /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample1305399546#305399546#0(0"0(0#0#0"8646533920#1020"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -L/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator -F/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator -filelist /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/Objects-normal/i386/VideoSample1.LinkFileList -mmacosx-version-min=10.5 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework MediaPlayer -framework QuartzCore -o /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/VideoSample10#
+
+CProcessInfoPlistFile /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/Info.plist VideoSample1-Info.plist
+s305399542.475176
+e305399542.486359
+r1
+xProcessInfoPlistFile
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/Info.plist
+xVideoSample1-Info.plist
+lSLF07#2@31"Process VideoSample1-Info.plist305399542#305399542#0(0"0(0#0#72"/Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1-Info.plist8650117216#524"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility VideoSample1-Info.plist -genpkginfo /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app/Info.plist0#
+
+CProcessPCH /var/folders/yt/ytrYuW-kFeu0bUmJA2vW-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoSample1_Prefix-ebaxccxmqttwcsbatvdvfjafkaup/VideoSample1_Prefix.pch.gch VideoSample1_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305399544.344948
+e305399546.499543
+r1
+xProcessPCH
+x/var/folders/yt/ytrYuW-kFeu0bUmJA2vW-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoSample1_Prefix-ebaxccxmqttwcsbatvdvfjafkaup/VideoSample1_Prefix.pch.gch
+xVideoSample1_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile VideoSample1_Prefix.pch305399544#305399546#0(0"0(0#0#72"/Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1_Prefix.pch8658847744#1988"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-generated-files.hmap -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-own-target-headers.hmap -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-all-target-headers.hmap -iquote /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/VideoSample1-project-headers.hmap -F/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/include -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/DerivedSources/i386 -I/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/VideoSample1.build/Debug-iphonesimulator/VideoSample1.build/DerivedSources -c /Users/mmlemon/Documents/apple/iPad/VideoSample1/VideoSample1_Prefix.pch -o /var/folders/yt/ytrYuW-kFeu0bUmJA2vW-U+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/VideoSample1_Prefix-ebaxccxmqttwcsbatvdvfjafkaup/VideoSample1_Prefix.pch.gch0#
+
+CTouch /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app
+s305399546.792943
+e305399546.805596
+r1
+xTouch
+x/Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app
+lSLF07#2@99"Touch /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app305399546#305399546#0(0"0(0#0#0"8659225600#303"    cd /Users/mmlemon/Documents/apple/iPad/VideoSample1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/mmlemon/Documents/apple/iPad/VideoSample1/build/Debug-iphonesimulator/VideoSample1.app0#
+
